@@ -1,4 +1,4 @@
-# Codebuch Kohlekommission #
+# Daten Kohlekommission #
 Codebuch Stand 2020-07-28   
 erstellt von Nora Schwarz (ns136@hdm-stuttgart.de)
 
@@ -16,6 +16,7 @@ https://www.bmwi.de/Redaktion/DE/Pressemitteilungen/2018/20180606-bundeskabinett
 
 Das Netzwerk ist ein *gerichtetes one-mode Akteursnetzwerk*. Fehlende Daten werden mit 99 kodiert.
 
+# Codebuch
 
 # EDGE-Attribute
 
