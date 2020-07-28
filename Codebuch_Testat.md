@@ -3,8 +3,8 @@ Codebuch Stand 2020-07-28
 erstellt von Nora Schwarz (ns136@hdm-stuttgart.de)
 
 ## Inhalt
-- testat_edgelist.csv (Edgelist)
-- testat_nodelist.csv (Nodelist)
+- Edgelist_Testat.csv (Edgelist)
+- Nodelist_Testat.csv (Nodelist)
 - Codebuch.rm (Codierung der Datensätze)
 
 ## Ursprung und Datenerhebung
@@ -13,6 +13,8 @@ Analysiert wird das Netzwerk der Kohlekommission. Ziel der Analyse ist es, herau
 Ich habe den Datensatz der Mitglieder der Kohlekommission aus folgenden Quellen:
 https://www.klimareporter.de/deutschland/das-sind-die-mitglieder-der-kohlekommission
 https://www.bmwi.de/Redaktion/DE/Pressemitteilungen/2018/20180606-bundeskabinett-setzt-kommission-wachstum-strukturwandel-und-beschaeftigung-ein.html
+https://www.munzinger.de/search/start.jsp
+https://www.abgeordnetenwatch.de/
 
 Das Netzwerk ist ein *gerichtetes one-mode Akteursnetzwerk*. Fehlende Daten werden mit 99 kodiert.
 
