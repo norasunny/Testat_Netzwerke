@@ -9,7 +9,7 @@ erstellt von Nora Schwarz (ns136@hdm-stuttgart.de)
 
 ## Ursprung und Datenerhebung
 
-Analysiert wird das Netzwerk der Kohlekommission. Ziel der Analyse ist es, herauszufinden welches Verbindungen Personen aus der Kohlekommission zu Parteien oder Institutionen  haben. 
+Analysiert wird das Netzwerk der Kohlekommission. Ziel der Analyse ist es, herauszufinden welche Verbindungen Personen aus der Kohlekommission zu Parteien oder Institutionen  haben. 
 Ich habe den Datensatz der Mitglieder der Kohlekommission aus folgenden Quellen:
 https://www.klimareporter.de/deutschland/das-sind-die-mitglieder-der-kohlekommission
 https://www.bmwi.de/Redaktion/DE/Pressemitteilungen/2018/20180606-bundeskabinett-setzt-kommission-wachstum-strukturwandel-und-beschaeftigung-ein.html
