@@ -1,6 +1,6 @@
-# Datensatz Semesterverbund CRPR2 #
-Codebuch Stand 2020-03-10   
-erstellt von Swaran Sandhu (sandhu@hdm-stuttgart.de)
+# Codebuch Kohlekommission #
+Codebuch Stand 2020-07-28   
+erstellt von Nora Schwarz (ns136@hdm-stuttgart.de)
 
 ## Inhalt
 - testat_edgelist.csv (Edgelist)
