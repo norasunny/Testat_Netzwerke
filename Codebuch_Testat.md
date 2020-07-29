@@ -16,7 +16,7 @@ https://www.bmwi.de/Redaktion/DE/Pressemitteilungen/2018/20180606-bundeskabinett
 https://www.munzinger.de/search/start.jsp
 https://www.abgeordnetenwatch.de/
 
-Das Netzwerk ist ein *gerichtetes one-mode Akteursnetzwerk*. Fehlende Daten werden mit 99 kodiert.
+Das Netzwerk ist ein *ungerichtetes one-mode Akteursnetzwerk*. Fehlende Daten werden mit 99 kodiert.
 
 # Codebuch
 
