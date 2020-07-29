@@ -31,6 +31,9 @@ Das Netzwerk ist ein *gerichtetes one-mode Akteursnetzwerk*. Fehlende Daten werd
 **to**
 (id alle Mitgliedschaften der Person in anderen Organisation wie zB politische Parteien, Unternehmen, Verbände, Vereine)
 
+**relation**
+1 = Hauptamt 2 = Nebenamt 3 = vergangenes Amt
+
 # NODE-Attribute  
 
 **id**
