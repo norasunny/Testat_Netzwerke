@@ -57,7 +57,7 @@ Das Netzwerk ist ein *ungerichtetes one-mode Akteursnetzwerk*. Fehlende Daten we
 (Ist die Person Mitglied einer politischen Partei?) "1 = keine, 2 = CDU 3 = SPD 4 = FDP 5 = Grüne"
 
 **representation** (Funktion innerhalb der Kommission)
-1 = Politik 2 = Wirtschaft 3 = Gewerkschaft 4 = Umwelt 5 = Regionen 6 = Wissenschaft 7 = Soziales
+1 = Politik 2 = Wirtschaft 3 = Gewerkschaft 4 = Umwelt 5 = Regionen 6 = Wissenschaft 
 
 **position** (Position innerhalb der Kommission) 
 1 = kein Stimmrecht 2 = Mitglied 3 = Vorsitz
