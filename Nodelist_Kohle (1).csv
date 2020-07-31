@@ -1,0 +1,73 @@
+id,label,type,sex,age,party,representation,position,state,proclimate
+platzeck,Matthias Platzeck,1,1,5,3,1,3,4,1
+pofalla,Ronald Pofalla,1,1,4,1,1,3,10,2
+praetorius,Barbara Praetorius,1,2,4,1,4,3,13,1
+tillich,Stanislaw Tillich,1,1,4,2,1,3,3,2
+hasselfeldt,Gerda Hasselfeldt,1,2,5,2,1,2,3,2
+kampeter,Steffen Kampeter,1,1,4,2,2,2,10,1
+kapferer,Stefan Kapferer,1,1,4,4,2,2,1,2
+kempf,Dieter Kempf,1,1,5,1,2,2,2,2
+nemat,Claudia Nemat,1,2,3,1,2,2,10,2
+reiche,Katherina Reiche,1,2,3,2,2,2,4,2
+roestel,Gunda Roestel,1,2,4,5,2,2,13,1
+schweitzer,Eric Schweitzer,1,1,4,4,2,2,99,1
+grothus,Antje Grothus,1,2,4,1,5,2,10,1
+wodtke,Hannelore Wodtke,1,2,6,2,5,2,4,1
+herntier,Christine Herntier,1,1,5,1,5,2,4,2
+kreuzberg,Michael Kreuzberg,1,1,5,2,5,2,10,2
+priggen,Reiner Priggen,1,1,5,5,5,2,10,1
+vassiliadis,Michael Vassiliadis,1,1,4,3,3,2,10,2
+scheidt,Andreas Scheidt,1,1,4,3,3,2,10,2
+koerzell,Stefan Koerzell,1,1,4,3,3,2,7,2
+kaiser,Martin Kaiser,1,1,4,1,4,2,6,1
+weiger,Hubert Weiger,1,1,6,1,4,2,2,1
+niebert,Kai Niebert,1,1,3,1,4,2,9,1
+allmendinger,Jutta Allmendinger,1,2,5,3,6,2,3,2
+schoenefeld,Christiane Schoenefeld,1,2,5,3,6,2,10,2
+matthes,Felix Matthes,1,1,4,1,6,2,10,1
+schellnhuber,Hans Joachim Schellnhuber,1,1,6,1,6,2,3,1
+niebuhr,Annekathrin Niebuhr,1,2,4,1,6,2,2,1
+wehrspohn,Ralf Wehrspohn,1,1,4,1,6,2,15,2
+laemmel,Andreas Laemmel,1,1,5,2,1,2,14,2
+lenz,Andreas Lenz,1,1,3,2,1,1,13,1
+miersch,Matthias Miersch,1,1,4,3,1,1,2,1
+cdu,CDU/CSU,3,99,99,99,99,99,99,2
+spd,SPD,3,99,99,99,99,99,99,2
+fdp,FDP,3,99,99,99,99,99,99,2
+gruene,Die Gruenen,3,99,99,99,99,99,99,1
+db,Deutsche Bahn,4,99,99,99,99,99,99,2
+drk,Deutsches Rotes Kreuz,2,99,99,99,99,99,99,2
+bda,Bundesvereinigung der Deutschen Arbeitgeberverbaende,2,99,99,99,99,99,99,2
+bdew,Bundesverband der Energie- und Wasserwirtschaft,2,99,99,99,99,99,99,1
+bdi,Bundesverband der Deutschen Industrie,2,99,99,99,99,99,99,2
+ba,Bundesagentur für Arbeit,2,99,99,99,99,99,99,2
+datev,Datev,4,99,99,99,99,99,99,2
+bitkom,Bitkom,4,99,99,99,99,99,99,2
+telekom,Telekom,4,99,99,99,99,99,99,1
+mckinsey,McKinsey,4,99,99,99,99,99,99,1
+vku,Verband Kommunaler Unternehmen,2,99,99,99,99,99,99,2
+enbw,EnBW,4,99,99,99,99,99,99,1
+diht,Deutscher Industrie- und Handelskammertag,2,99,99,99,99,99,99,2
+alba,Alba Group,4,99,99,99,99,99,99,1
+ihk,Industrie- und Handelskammer,2,99,99,99,99,99,99,2
+bfb,Buirer für Buir,2,99,99,99,99,99,99,1
+spremberger,Spremberger Tuche,4,99,99,99,99,99,99,2
+leenrw,Landesverband Erneuerbare Energien NRW,2,99,99,99,99,99,99,2
+igbce,"Industriegewerkschaft Bergbau, Chemie, Energie",2,99,99,99,99,99,99,2
+verdi,Verdi,2,99,99,99,99,99,99,2
+eon,Eon,4,99,99,99,99,99,99,1
+dgb,Deutscher Gewerkschaftsbund,2,99,99,99,99,99,99,2
+greenpeace,Greenpeace,2,99,99,99,99,99,99,1
+bund,Bund fuer Umwelt und Naturschutz Deutschland,2,99,99,99,99,99,99,1
+dnr,Dachverband Deutscher Naturschutzring,2,99,99,99,99,99,99,1
+iab,Institut fuer Arbeitsmarkt- und Berufsforschung,2,99,99,99,99,99,99,2
+wzb,Wissenschaftszentrum Berlin fuer Sozialforschung,2,99,99,99,99,99,99,2
+oekoinstitut,Oeko Institut,2,99,99,99,99,99,99,1
+klimafolge,Institut fuer Klimafolgenforschung,2,99,99,99,99,99,99,1
+stockholm,Stockholm Resilience Center,2,99,99,99,99,99,99,1
+wbgu,Wissenschaftlicher Beirat der Bundesregierung fuer Globale Umweltveraenderungen,2,99,99,99,99,99,99,1
+fraunhofer,Fraunhofer Institut,2,99,99,99,99,99,99,2
+agora,Thinktank Agora Energiewende,2,99,99,99,99,99,99,1
+ipcc,Intergovernmental Panel on Climate Change,2,99,99,99,99,99,99,1
+htw,Hochschule fuer Wirtschaft und Technik Berlin,2,99,99,99,99,99,99,2
+kk,Kohlekommission,2,99,99,99,99,99,99,99
